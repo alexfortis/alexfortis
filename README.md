@@ -1,6 +1,6 @@
 
-Hi, I'm Alex Strong, a graduate student at Binghamton University (SUNY), on schedule to complete my MS in Computer Science in spring 2022.
+Hi, I'm Alex Strong. I studied at Binghamton University (BS '17 in Math and Computer Science, MS '22 in Computer Science). For my MS, I did research under Yu David Liu and wrote a thesis on Compiler-Directed Regulation Enforcement for UAVs. More about me [here](https://alexfortis.github.io), including my master's thesis.
 
-I'm doing research under Yu David Liu, adding features to the Paparazzi UAV programming language to enforce FAA regulations at compile time.
+You can reach me [by email](mailto:alex.j.strong+github@gmail.com).
 
-You can reach me at [astrong3@binghamton.edu](mailto:astrong3+github@binghamton.edu).
+I currently work at [the Lamont-Doherty Earth Observatory](https://lamont.columbia.edu/) on [GeoMapApp](https://www.geomapapp.org/), [Rolling Deck to Repository](https://www.rvdata.us/), and [the United States Antarctic Program Data Center](https://www.usap-dc.org/).
